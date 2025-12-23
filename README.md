@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Mathur
 
-<!--
-**gaurav21-bit/gaurav21-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I’m a tech enthusiast passionate about **Python**, **Data Science**, and **Databases**.  
+I enjoy building projects that help me learn, experiment, and share knowledge with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m Working On
+
+- 📊 Data Science & Statistical Analysis projects  
+- 🐍 Python scripting and automation  
+- 🗄️ SQL & MongoDB practice repositories  
+- 🧪 Jupyter Notebook–based learning projects  
+
+---
+
+## 💻 Skills & Tools
+
+- **Languages:** Python, SQL  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Jupyter Notebook, Git, GitHub  
+- **Interests:** Data Analysis, Automation, Learning New Tech  
+
+---
+
+## 📌 Featured Repositories
+
+- 📘 **Data-Science-Toolkit** – Python tools for data science  
+- 📈 **statistics-** – Statistical analysis using Python  
+- 🐍 **Python** – Python practice and examples  
+- 🗃️ **Structured-Query-Language** – SQL concepts and queries  
+- ⚙️ **Expert-Python** – Advanced Python scripts  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Analysis  
+- Python optimization & best practices  
+- Database performance tuning  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 GitHub: [gaurav21-bit](https://github.com/gaurav21-bit)
+- 🔗 LinkedIn: [Gaurav Mathur](https://www.linkedin.com/in/gaurav-mathur-1aa780293/)
+---
+
+⭐ If you like my work, consider giving a star to
